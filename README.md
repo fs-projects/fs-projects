@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fs-projects
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently involved in MERN stack 
 - 💞️ I’m looking to collaborate on MERN stack projects
 - 📫 How to reach me fs.projectsuk@gmail.com
 
