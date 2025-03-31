@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&center=true&vCenter=true&width=500&lines=Frontend-first+Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL+%7C+More...;Always+Learning+and+Building+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&center=true&vCenter=true&width=500&lines=Frontend-first+Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL+%7C+More...+%7C;Always+Learning+%26+Building+Things+🚀" alt="Typing SVG" />
 </p>
+
 
 
 ---
