@@ -13,8 +13,8 @@
 
 ### 🛠️ Tech Stack
 
- <div style="display: flex; flex-direction: column;">
-   <strong>Frontend</strong>
+<div style="display: flex; flex-direction: column; gap: 10px; margin-bottom: 30px;">
+<strong>Frontend</strong>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;"> 
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -27,8 +27,8 @@
 </div>
 </div>
 
- <div style="display: flex; flex-direction: column;">
-    <strong>Frontend</strong>
+<div style="display: flex; flex-direction: column; gap: 10px; margin-bottom: 30px;">
+<strong>Frontend</strong>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 </div>
- </div>
+</div>
 
 <!---
 ### 📈 GitHub Stats
