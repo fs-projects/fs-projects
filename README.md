@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat" />
   <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />  
-<br><br>
+<br>
 <strong>Backend</strong>
 <br>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
