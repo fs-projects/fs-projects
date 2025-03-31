@@ -4,14 +4,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&center=true&vCenter=true&width=435&lines=Frontend+first+Full+Stack+Developer;React+%2F+TS+%2F+Node+%2F+Postgres+%2F+Many more+%2F;Always+Learning+%26+Building+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&center=true&vCenter=true&width=500&lines=Frontend-first+Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL+%7C+More...;Always+Learning+%26+Building+Things+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-**Frontend**  
+
+**Frontend** 
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;"> 
  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
@@ -56,8 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=fs-projects&theme=gruvbox&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 --->
----
-
 ---
 
 <p align="center">
