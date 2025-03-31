@@ -1,10 +1,10 @@
-<h1 align="center">Hey 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey 👋, I'm Utkarsh Kukreti</h1>
 <p align="center">
   Full Stack Developer | React Enthusiast | Backend Explorer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+first+Full+Stack+Developer;React+%2F+TS+%2F+Node+%2F+Postgres+%2F+K8s+Lover;Always+Learning+%26+Building+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+first+Full+Stack+Developer;React+%2F+TS+%2F+Node+%2F+Postgres+%2F+Lover;Always+Learning+%26+Building+Things+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,15 +35,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fs-projects&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fs-projects&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fs-projects&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=gruvbox&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fs-projects&theme=gruvbox&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
