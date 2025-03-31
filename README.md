@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, I'm Utkarsh Kukreti</h1>
 <p align="center">
-  Full Stack Developer | React Enthusiast | Backend Explorer
+  Full Stack Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+first+Full+Stack+Developer;React+%2F+TS+%2F+Node+%2F+Postgres+%2F+Lover;Always+Learning+%26+Building+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+first+Full+Stack+Developer;React+%2F+TS+%2F+Node+%2F+Postgres+%2F+Many more+%2F;Always+Learning+%26+Building+Things+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ---
-
+<!---
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fs-projects&theme=gruvbox&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
-
+--->
 ---
 
 ---
