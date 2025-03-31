@@ -1,16 +1,16 @@
-<h1 align="center">Hey 👋, I'm Utkarsh Kukreti</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh Kukreti</h1>
 <p align="center">
   Full Stack Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+first+Full+Stack+Developer;React+%2F+TS+%2F+Node+%2F+Postgres+%2F+Many more+%2F;Always+Learning+%26+Building+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&center=true&vCenter=true&width=435&lines=Frontend+first+Full+Stack+Developer;React+%2F+TS+%2F+Node+%2F+Postgres+%2F+Many more+%2F;Always+Learning+%26+Building+Things+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
-
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
@@ -20,8 +20,10 @@
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat)  
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)  
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+</div>
 
 **Backend**  
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)  
@@ -29,7 +31,7 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
+</div>
 ---
 <!---
 ### 📈 GitHub Stats
